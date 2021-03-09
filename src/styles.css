@@ -1,0 +1,26 @@
+.move-nav{
+    transform: translate(57vw, 0vh);
+}
+
+.move-nav a{
+    color: white;
+}
+
+/* Input Styles for CreateDrone Component */
+input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: .4vw !important;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.button-styles{
+    width: 40%;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    border: 1 px solid white;
+    padding: 10px;
+}
